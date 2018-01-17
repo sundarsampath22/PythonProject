@@ -1,3 +1,0 @@
-rainbow, 10, 34, rainbow.png
-space, 13, 28, space.png
-bird, 6, 4, bird.png
