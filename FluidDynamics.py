@@ -7,8 +7,8 @@ from graphics import *
 
 
 def main():
+    print("Test")
     display()
-
 def display():
     win = GraphWin('Draw a Triangle', 350, 350)
     win.setBackground('yellow')
