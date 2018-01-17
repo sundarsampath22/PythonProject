@@ -8,6 +8,7 @@ from graphics import *
 
 def main():
     print("Test")
+    print("Confirm")
     display()
 def display():
     win = GraphWin('Draw a Triangle', 350, 350)
